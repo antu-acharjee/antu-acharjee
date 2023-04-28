@@ -2,7 +2,7 @@
 
 ### Hi there I am Antu Acharjee  
 <div align="center">
-<img src="https://github.com/antu-acharjee/antu-acharjee/blob/main/bjit.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/antu-acharjee/antu-acharjee/blob/main/35660520.jpg" align="center" style="width: 100%" />
 </div>  
   
 
