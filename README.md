@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="padding-bottom=20px">
 <img src="https://github.com/antu-acharjee/antu-acharjee/blob/main/github-header-image.png" align="center" style="width: 100eight: 100%" />
 </div> 
 
