@@ -1,6 +1,7 @@
 
+<img src="https://github.com/antu-acharjee/antu-acharjee/blob/main/github-header-image.png" align="center" style="width: 100eight: 100%" />
+</div> 
 
-### Hi there I am Antu Acharjee  
 <div align="center">
 <img src="https://github.com/antu-acharjee/antu-acharjee/blob/main/35660520.jpg" align="center" style="width: 50% height: 50%" />
 </div>  
