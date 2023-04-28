@@ -3,7 +3,6 @@
 </div> 
 <br>
 <br>
-<br>
 <div align="center">
 <img src="https://github.com/antu-acharjee/antu-acharjee/blob/main/35660520.jpg" align="center" style="width: 50% height: 50%" />
 </div>  
