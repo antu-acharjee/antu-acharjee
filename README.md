@@ -25,6 +25,9 @@
 
 <br/>  
 
+## 🌱 What I'm currently learning
+I’m currently expanding **my skillset by learning various technologies including Linux commands, Jenkins, Ansible, Terraform, and AWS. As a developer, I believe that it's crucial to stay up-to-date with the latest tools and techniques in the industry, and continuously learning is the key to success in the field of DevOps Engineering. By enhancing my knowledge of these technologies, I aim to improve my development skills and become a more well-rounded professional.**
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
